@@ -25,9 +25,9 @@ Use o npm ou yarn para instalar todas as dependências do projeto:
 3. **Inicie o Servidor de Desenvolvimento**
 Após a instalação das dependências, inicie o servidor de desenvolvimento:
 ```
-    npm start
-        ou
-    yarn start
+npm start
+   ou
+yarn start
 ```
 
 O aplicativo deve ser aberto automaticamente no seu navegador padrão. Caso contrário, acesse http://localhost:3000 para ver o portfólio em execução.
@@ -36,37 +36,37 @@ O aplicativo deve ser aberto automaticamente no seu navegador padrão. Caso cont
 
 O projeto está estruturado da seguinte forma:
 ```
-    portfolio-react/
-    ├── public/
-    │   ├── index.html
-    │   └── ...
-    ├── src/
-    │   ├── components/
-    │   │   ├── Navbar.js
-    │   │   ├── Button.js
-    │   │   ├── Card.js
-    │   │   └── Modal.js
-    │   ├── data/
-    │   │   └── projects.json
-    │   ├── pages/
-    │   │   ├── Home.js
-    │   │   ├── About.js
-    │   │   └── Projects.js
-    │   ├── styles/
-    │   │   ├── About.css
-    │   │   ├── App.css
-    |   |   ├── Button.css
-    |   |   ├── Card.css
-    |   |   ├── Home.css
-    |   |   ├── index.css
-    |   |   ├── Modal.css
-    |   |   ├── Navbar.css
-    │   │   └── Projects.css
-    │   ├── App.js
-    │   ├── index.js
-    │   ├── index.css
-    │   └── ...
-    └── package.json
+ portfolio-react/
+ ├── public/
+ │   ├── index.html
+ │   └── ...
+ ├── src/
+ │   ├── components/
+ │   │   ├── Navbar.js
+ │   │   ├── Button.js
+ │   │   ├── Card.js
+ │   │   └── Modal.js
+ │   ├── data/
+ │   │   └── projects.json
+ │   ├── pages/
+ │   │   ├── Home.js
+ │   │   ├── About.js
+ │   │   └── Projects.js
+ │   ├── styles/
+ │   │   ├── About.css
+ │   │   ├── App.css
+ |   |   ├── Button.css
+ |   |   ├── Card.css
+ |   |   ├── Home.css
+ |   |   ├── index.css
+ |   |   ├── Modal.css
+ |   |   ├── Navbar.css
+ │   │   └── Projects.css
+ │   ├── App.js
+ │   ├── index.js
+ │   ├── index.css
+ │   └── ...
+ └── package.json
 ```
 ## Simulação de Requisições
 
