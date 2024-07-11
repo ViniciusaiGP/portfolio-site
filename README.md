@@ -1,4 +1,4 @@
-# Meu Portfólio de Desenvolvedor
+# Meu Portfólio
 
 ## Descrição
 Este projeto é um portfólio online desenvolvido em React, projetado para apresentar meus trabalhos e habilidades como desenvolvedor. O portfólio inclui informações sobre mim, meus projetos recentes e detalhes de contato. Ele faz uso de práticas modernas de desenvolvimento web, como componentização, gerenciamento de estado com hooks e simulação de requisições a um servidor através de arquivos JSON locais.
