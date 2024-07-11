@@ -18,9 +18,9 @@ Antes de iniciar, certifique-se de ter o Node.js instalado em sua máquina. Voc�
     
 Use o npm ou yarn para instalar todas as dependências do projeto:
 ```
-    npm install
-        ou
-    yarn install
+ npm install
+     ou
+ yarn install
 ```
 3. **Inicie o Servidor de Desenvolvimento**
 Após a instalação das dependências, inicie o servidor de desenvolvimento:
