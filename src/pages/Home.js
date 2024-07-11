@@ -40,7 +40,7 @@ const Home = () => {
           Veja meus projetos
         </Button>
 
-        {/* Seção de Projetos */}2
+        {/* Seção de Projetos */}
         <div className="projects-section">
           <h2>Projetos recentes</h2>
           <div className="projects-list">
