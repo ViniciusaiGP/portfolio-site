@@ -84,5 +84,7 @@ A aplicação utiliza vários componentes reutilizáveis para garantir uma estru
 ****
 ## Links
 **Link para o vídeo:** https://youtu.be/2LQaZdvV_q0
+
 **Link para o figma:** https://www.figma.com/design/sq8GNCsnAjxZ404MrRFdkt/Sprint_2?node-id=0-1&t=WlfLf9e9FbjzdS2y-1
+
 **Link para o repositório do front-end:** link
