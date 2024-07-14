@@ -11,7 +11,7 @@ Antes de iniciar, certifique-se de ter o Node.js instalado em sua máquina. Voc�
 ### Passos para Configuração do Ambiente Local
 1. **Clone o Repositório**
    ```
-   git clone https://github.com/SeuUsuario/portfolio-react.git
+   git clone https://github.com/ViniciusaiGP/portfolio-site.git
    cd portfolio-react
    ```
 2. **Instale as Dependências**
