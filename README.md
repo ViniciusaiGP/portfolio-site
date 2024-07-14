@@ -12,7 +12,7 @@ Antes de iniciar, certifique-se de ter o Node.js instalado em sua máquina. Voc�
 1. **Clone o Repositório**
    ```
    git clone https://github.com/ViniciusaiGP/portfolio-site.git
-   cd portfolio-react
+   cd portfolio-site
    ```
 2. **Instale as Dependências**
     
